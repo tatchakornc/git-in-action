@@ -1,2 +1,3 @@
 Name: Tatchakorn
 Sex : Male
+Address : Nonthaburi
