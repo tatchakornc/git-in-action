@@ -1,2 +1,2 @@
 Name: Tatchakorn
-Gender : Male
+Sex : Male
